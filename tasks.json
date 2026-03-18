@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2,
+    "description": "Тестовая задача",
+    "status": "todo",
+    "createdAt": "2026-03-18T11:19:23.156029",
+    "updatedAt": "2026-03-18T11:19:23.156058"
+  },
+  {
+    "id": 3,
+    "description": "Тестовая таска",
+    "status": "todo",
+    "createdAt": "2026-03-18T11:49:46.648338",
+    "updatedAt": "2026-03-18T11:49:46.648338"
+  },
+  {
+    "id": 4,
+    "description": "Тестовая таска",
+    "status": "todo",
+    "createdAt": "2026-03-18T11:49:50.167589",
+    "updatedAt": "2026-03-18T11:49:50.167589"
+  },
+  {
+    "id": 5,
+    "description": "Купить продукты",
+    "status": "todo",
+    "createdAt": "2026-03-18T12:42:29.703659",
+    "updatedAt": "2026-03-18T12:42:29.703659"
+  },
+  {
+    "id": 6,
+    "description": "Сделать зарядку",
+    "status": "in-progress",
+    "createdAt": "2026-03-18T12:42:34.986304",
+    "updatedAt": "2026-03-18T12:42:34.986304"
+  },
+  {
+    "id": 7,
+    "description": "Позвонить маме",
+    "status": "done",
+    "createdAt": "2026-03-18T12:42:40.754915",
+    "updatedAt": "2026-03-18T12:42:40.754915"
+  },
+  {
+    "id": 8,
+    "description": "Почитать книгу",
+    "status": "todo",
+    "createdAt": "2026-03-18T12:42:44.789477",
+    "updatedAt": "2026-03-18T12:42:44.789477"
+  },
+  {
+    "id": 9,
+    "description": "Еще задача",
+    "status": "todo",
+    "createdAt": "2026-03-18T12:46:55.658643",
+    "updatedAt": "2026-03-18T12:46:55.658643"
+  },
+  {
+    "id": 10,
+    "description": "Купить продукты",
+    "status": "todo",
+    "createdAt": "2026-03-19T01:09:39.408446",
+    "updatedAt": "2026-03-19T01:09:39.408446"
+  },
+  {
+    "id": 11,
+    "description": "Сделать зарядку",
+    "status": "in-progress",
+    "createdAt": "2026-03-19T01:09:44.932137",
+    "updatedAt": "2026-03-19T01:09:44.932137"
+  },
+  {
+    "id": 12,
+    "description": "Позвонить маме",
+    "status": "done",
+    "createdAt": "2026-03-19T01:09:48.947927",
+    "updatedAt": "2026-03-19T01:09:48.947927"
+  },
+  {
+    "id": 1,
+    "description": "TEST ID 1",
+    "status": "todo",
+    "createdAt": "2026-03-19T01:10:57.386181",
+    "updatedAt": "2026-03-19T01:10:57.386181"
+  }
+]
